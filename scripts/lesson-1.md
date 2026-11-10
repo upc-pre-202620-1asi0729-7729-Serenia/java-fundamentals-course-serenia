@@ -1,7 +1,7 @@
 # Guion · Lección 1: ¿Qué es la programación y cómo funciona Java? (8 min)
 
 **Objetivo:** que el estudiante entienda qué es programar, el rol de Java en el mundo real y ejecute su primer código en consola.
-**Editor:** Replit (`starter-files/Lesson1_HolaMundo`).
+**Editor:** Replit (`starter-files/lesson-1`).
 **Recurso visual:** analogía de la receta de cocina (instrucciones paso a paso) y logos de aplicaciones conocidas hechas en Java (Minecraft, servidores, Android).
 
 | Tiempo | Pantalla / Texto en pantalla | Narración (voz en off) |
