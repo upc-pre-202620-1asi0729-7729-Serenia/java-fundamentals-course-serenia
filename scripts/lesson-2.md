@@ -1,7 +1,7 @@
 # Guion · Lección 2: Variables y tipos de datos (9 min)
 
 **Objetivo:** comprender el concepto de variable en memoria y usar los tipos primitivos más comunes (`int`, `double`, `boolean`) junto con `String`.
-**Editor:** Replit (`starter-files/Lesson2_Variables`).
+**Editor:** Replit (`starter-files/lesson-2`).
 **Recurso visual:** cajas etiquetadas con formas distintas según el tipo de objeto que guardan (números, texto, interruptor ON/OFF).
 
 | Tiempo | Pantalla / Texto en pantalla | Narración (voz en off) |
