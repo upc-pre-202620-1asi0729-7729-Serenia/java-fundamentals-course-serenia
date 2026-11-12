@@ -21,7 +21,7 @@ Este curso de 60 minutos introduce a estudiantes de secundaria (12 a 17 años) a
 
 ### Lección 2: Variables y tipos de datos: Guardando información (9 minutos)
 * **Descripción**: Aprende cómo la computadora recuerda datos. Crearemos el perfil digital de un personaje de videojuego utilizando variables de texto (`String`), números enteros (`int`), números decimales (`double`) y valores lógicos (`boolean`).
-* **Enlace**: [Ver la lección](https://www.youtube.com/link_video2)
+* **Enlace**: [Ver la lección](https://youtu.be/qorS3gYNQBU)
 * **Conclusiones clave**: Una variable es una caja con nombre y tipo de dato; Java requiere declarar el tipo antes del nombre; el operador `=` asigna un valor.
 * **Práctica**: [Clic para programar en Replit](https://replit.com/@tu-usuario/java-leccion-2-starter)
 
