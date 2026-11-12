@@ -45,9 +45,9 @@ Este curso de 60 minutos introduce a estudiantes de secundaria (12 a 17 años) a
 
 ### Lección 6: Buenas prácticas, depuración y siguientes pasos (8 minutos)
 * **Descripción**: Revisa los errores más frecuentes que cometen los desarrolladores principiantes (olvido de punto y coma, discrepancia entre tipos de datos, errores de índice en arreglos). Aprende a interpretar los mensajes de error en la consola y descubre rutas recomendadas para continuar tu formación en desarrollo de software.
-* **Enlace**: [Ver la lección](https://www.youtube.com/link_video6)
+* **Enlace**: [Ver la lección](https://youtu.be/g5lZzMHCxMs)
 * **Conclusiones clave**: Leer el mensaje de la traza de error indica la línea exacta del fallo; mantener nombres descriptivos mejora la legibilidad; no temer a equivocarse al compilar.
-* **Formulario de retroalimentación**: [Compartir proyecto final](https://forms.gle/)
+* **Formulario de retroalimentación**: [Compartir proyecto final](https://docs.google.com/forms/d/e/1FAIpQLSfHnibAzXJYHjoIblhHmx7c2T2Wf3Hl2Le2sN3JBBnqV0_upg/viewform?usp=publish-editor)
 
 ---
 
@@ -58,12 +58,13 @@ Este curso de 60 minutos introduce a estudiantes de secundaria (12 a 17 años) a
 
 | Número de Lección | Nombre de la Actividad | Editor en Línea | Enlace Directo |
 | :--- | :--- | :--- | :--- |
-| Lección 1 | Mi Primer Mensaje en Java | Replit | [Abrir Editor](https://onlinegdb.com/LybOyswo6) |
+| Lección 1 | Mi Primer Mensaje en Java | GDB | [Abrir Editor](https://onlinegdb.com/LybOyswo6) |
 | Lección 2 | Perfil de Personaje | Replit | [Abrir Editor](https://replit.com/@tu-usuario/java-leccion-2-starter) |
 | Lección 3 | Camino de Decisiones y Bucles | JDoodle | [Abrir Editor](https://www.jdoodle.com/online-java-compiler) |
 | Lección 4 | Entrada de Datos con Scanner | OnlineGDB | [Abrir Editor](https://onlinegdb.com/example-lesson4) |
 | Lección 5 | Simulador de Mascotas Virtuales | Replit | [Abrir Editor](https://replit.com/@tu-usuario/java-leccion-5-starter) |
-| Cierre | Cuestionario de Validación | Google Forms | [Completar Cuestionario](https://forms.gle/tu-formulario-de-evaluacion) |
+| Lección 6 | Revisión de errores | GDB | [Abrir Editor](https://onlinegdb.com/NTSEf7d8I) |
+| Cierre | Cuestionario de Validación | Google Forms | [Completar Cuestionario](https://docs.google.com/forms/d/e/1FAIpQLSd5Hp92BQ8JOETsJARQ0U8g_trUQfdzh4kocAp3cb6TQBKmKA/viewform?usp=publish-editor) |
 
 ---
 
