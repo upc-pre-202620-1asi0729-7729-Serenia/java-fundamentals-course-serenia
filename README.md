@@ -23,7 +23,7 @@ Este curso de 60 minutos introduce a estudiantes de secundaria (12 a 17 años) a
 * **Descripción**: Aprende cómo la computadora recuerda datos. Crearemos el perfil digital de un personaje de videojuego utilizando variables de texto (`String`), números enteros (`int`), números decimales (`double`) y valores lógicos (`boolean`).
 * **Enlace**: [Ver la lección](https://youtu.be/qorS3gYNQBU)
 * **Conclusiones clave**: Una variable es una caja con nombre y tipo de dato; Java requiere declarar el tipo antes del nombre; el operador `=` asigna un valor.
-* **Práctica**: [Clic para programar en Replit](https://replit.com/@tu-usuario/java-leccion-2-starter)
+* **Práctica**: [Abrir plantilla en GDB](https://onlinegdb.com/RMtcgUdyt)
 
 ### Lección 3: Estructuras de control: Decisiones y repeticiones (11 minutos)
 * **Descripción**: Dale inteligencia a tus programas. Implementaremos decisiones con `if-else` y operadores lógicos para elegir caminos en una historia interactiva, y utilizaremos bucles `for` y `while` para repetir acciones automáticamente sin reescribir código.
