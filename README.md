@@ -60,7 +60,7 @@ Este curso de 60 minutos introduce a estudiantes de secundaria (12 a 17 años) a
 | :--- | :--- | :--- | :--- |
 | Lección 1 | Mi Primer Mensaje en Java | Replit | [Abrir Editor](https://onlinegdb.com/LybOyswo6) |
 | Lección 2 | Perfil de Personaje | Replit | [Abrir Editor](https://replit.com/@tu-usuario/java-leccion-2-starter) |
-| Lección 3 | Camino de Decisiones y Bucles | JDoodle | [Abrir Editor](https://www.jdoodle.com/ia/example-lesson3) |
+| Lección 3 | Camino de Decisiones y Bucles | JDoodle | [Abrir Editor](https://www.jdoodle.com/online-java-compiler) |
 | Lección 4 | Entrada de Datos con Scanner | OnlineGDB | [Abrir Editor](https://onlinegdb.com/example-lesson4) |
 | Lección 5 | Simulador de Mascotas Virtuales | Replit | [Abrir Editor](https://replit.com/@tu-usuario/java-leccion-5-starter) |
 | Cierre | Cuestionario de Validación | Google Forms | [Completar Cuestionario](https://forms.gle/tu-formulario-de-evaluacion) |
