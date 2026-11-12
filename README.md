@@ -15,9 +15,9 @@ Este curso de 60 minutos introduce a estudiantes de secundaria (12 a 17 años) a
 
 ### Lección 1: ¿Qué es la programación y cómo funciona Java? (8 minutos)
 * **Descripción**: Descubre qué es un programa informático, cómo las computadoras interpretan instrucciones y por qué Java es uno de los lenguajes más populares del mundo para crear videojuegos, servidores y aplicaciones móviles. Escribiremos y ejecutaremos nuestro primer mensaje en consola.
-* **Enlace**: [Ver la lección](https://www.youtube.com/link_video1)
+* **Enlace**: [Ver la lección](https://youtu.be/VOSJU_sEZ8k?si=w3dMU73syo1Mto1K)
 * **Conclusiones clave**: Un programa es un conjunto ordenado de instrucciones; la función `main` es el punto de inicio de ejecución en Java; `System.out.println()` imprime texto en pantalla.
-* **Empieza a programar**: [Abrir plantilla en Replit](https://replit.com/@tu-usuario/java-leccion-1-starter)
+* **Empieza a programar**: [Abrir plantilla en GDB](https://onlinegdb.com/LybOyswo6)
 
 ### Lección 2: Variables y tipos de datos: Guardando información (9 minutos)
 * **Descripción**: Aprende cómo la computadora recuerda datos. Crearemos el perfil digital de un personaje de videojuego utilizando variables de texto (`String`), números enteros (`int`), números decimales (`double`) y valores lógicos (`boolean`).
@@ -58,7 +58,7 @@ Este curso de 60 minutos introduce a estudiantes de secundaria (12 a 17 años) a
 
 | Número de Lección | Nombre de la Actividad | Editor en Línea | Enlace Directo |
 | :--- | :--- | :--- | :--- |
-| Lección 1 | Mi Primer Mensaje en Java | Replit | [Abrir Editor](https://replit.com/@tu-usuario/java-leccion-1-starter) |
+| Lección 1 | Mi Primer Mensaje en Java | Replit | [Abrir Editor](https://onlinegdb.com/LybOyswo6) |
 | Lección 2 | Perfil de Personaje | Replit | [Abrir Editor](https://replit.com/@tu-usuario/java-leccion-2-starter) |
 | Lección 3 | Camino de Decisiones y Bucles | JDoodle | [Abrir Editor](https://www.jdoodle.com/ia/example-lesson3) |
 | Lección 4 | Entrada de Datos con Scanner | OnlineGDB | [Abrir Editor](https://onlinegdb.com/example-lesson4) |
