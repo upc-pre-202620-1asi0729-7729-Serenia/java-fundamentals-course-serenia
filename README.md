@@ -21,15 +21,15 @@ Este curso de 60 minutos introduce a estudiantes de secundaria (12 a 17 años) a
 
 ### Lección 2: Variables y tipos de datos: Guardando información (9 minutos)
 * **Descripción**: Aprende cómo la computadora recuerda datos. Crearemos el perfil digital de un personaje de videojuego utilizando variables de texto (`String`), números enteros (`int`), números decimales (`double`) y valores lógicos (`boolean`).
-* **Enlace**: [Ver la lección](https://www.youtube.com/link_video2)
+* **Enlace**: [Ver la lección](https://youtu.be/qorS3gYNQBU)
 * **Conclusiones clave**: Una variable es una caja con nombre y tipo de dato; Java requiere declarar el tipo antes del nombre; el operador `=` asigna un valor.
 * **Práctica**: [Clic para programar en Replit](https://replit.com/@tu-usuario/java-leccion-2-starter)
 
 ### Lección 3: Estructuras de control: Decisiones y repeticiones (11 minutos)
 * **Descripción**: Dale inteligencia a tus programas. Implementaremos decisiones con `if-else` y operadores lógicos para elegir caminos en una historia interactiva, y utilizaremos bucles `for` y `while` para repetir acciones automáticamente sin reescribir código.
-* **Enlace**: [Ver la lección](https://www.youtube.com/link_video3)
+* **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=-ZPliPHu7ZI)
 * **Conclusiones clave**: `if (condición)` evalúa expresiones booleanas; `for` se emplea cuando conocemos el número de repeticiones; `while` repite mientras una condición sea verdadera.
-* **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/example-lesson3)
+* **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/online-java-compiler)
 
 ### Lección 4: Entrada por consola y métodos modulares (10 minutos)
 * **Descripción**: Haz que tu programa interactúe con el usuario leyendo texto y números desde el teclado mediante la clase `Scanner`. Además, organizaremos el código en métodos (funciones) reutilizables con parámetros y valores de retorno.
