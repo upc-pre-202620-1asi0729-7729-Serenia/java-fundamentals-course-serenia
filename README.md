@@ -41,7 +41,7 @@ Este curso de 60 minutos introduce a estudiantes de secundaria (12 a 17 años) a
 * **Descripción**: Modela elementos del mundo real dentro de tu código. Aprende la diferencia entre una clase (molde) y un objeto (instancia). Construiremos una clase `Mascota` con atributos privados, métodos constructores, comportamientos interactivos y métodos de acceso (`getters` y `setters`) aplicando encapsulación.
 * **Enlace**: [Ver la lección](https://www.youtube.com/link_video5)
 * **Conclusiones clave**: Una clase define atributos y comportamientos; el constructor inicializa el estado del objeto; la encapsulación protege los datos mediante atributos `private` y métodos `public`.
-* **Proyecto final**: [Crea tu simulador de mascotas en Replit](https://replit.com/@tu-usuario/java-leccion-5-starter)
+* **Proyecto final**: [Crea tu simulador de mascotas en JDoodle](https://www.jdoodle.com/ia/zx55-qn5q-434k)
 
 ### Lección 6: Buenas prácticas, depuración y siguientes pasos (8 minutos)
 * **Descripción**: Revisa los errores más frecuentes que cometen los desarrolladores principiantes (olvido de punto y coma, discrepancia entre tipos de datos, errores de índice en arreglos). Aprende a interpretar los mensajes de error en la consola y descubre rutas recomendadas para continuar tu formación en desarrollo de software.
