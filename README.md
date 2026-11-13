@@ -29,7 +29,7 @@ Este curso de 60 minutos introduce a estudiantes de secundaria (12 a 17 años) a
 * **Descripción**: Dale inteligencia a tus programas. Implementaremos decisiones con `if-else` y operadores lógicos para elegir caminos en una historia interactiva, y utilizaremos bucles `for` y `while` para repetir acciones automáticamente sin reescribir código.
 * **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=-ZPliPHu7ZI)
 * **Conclusiones clave**: `if (condición)` evalúa expresiones booleanas; `for` se emplea cuando conocemos el número de repeticiones; `while` repite mientras una condición sea verdadera.
-* **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/online-java-compiler)
+* **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ga/9b3t-k6rd-arak)
 
 ### Lección 4: Entrada por consola y métodos modulares (10 minutos)
 * **Descripción**: Haz que tu programa interactúe con el usuario leyendo texto y números desde el teclado mediante la clase `Scanner`. Además, organizaremos el código en métodos (funciones) reutilizables con parámetros y valores de retorno.
