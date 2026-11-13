@@ -33,9 +33,9 @@ Este curso de 60 minutos introduce a estudiantes de secundaria (12 a 17 años) a
 
 ### Lección 4: Entrada por consola y métodos modulares (10 minutos)
 * **Descripción**: Haz que tu programa interactúe con el usuario leyendo texto y números desde el teclado mediante la clase `Scanner`. Además, organizaremos el código en métodos (funciones) reutilizables con parámetros y valores de retorno.
-* **Enlace**: [Ver la lección](https://www.youtube.com/link_video4)
+* **Enlace**: [Ver la lección](https://www.youtube.com)
 * **Conclusiones clave**: La clase `Scanner` captura entradas del teclado; los métodos evitan duplicar lógica; `return` devuelve un resultado al bloque que invocó la función.
-* **Práctica**: [Clic para programar en OnlineGDB](https://onlinegdb.com/example-lesson4)
+* **Práctica**: [Clic para programar en OnlineGDB](https://www.jdoodle.com/ia/5z5y-hmm5-m23f)
 
 ### Lección 5: Introducción a la Programación Orientada a Objetos (14 minutos)
 * **Descripción**: Modela elementos del mundo real dentro de tu código. Aprende la diferencia entre una clase (molde) y un objeto (instancia). Construiremos una clase `Mascota` con atributos privados, métodos constructores, comportamientos interactivos y métodos de acceso (`getters` y `setters`) aplicando encapsulación.
@@ -59,11 +59,11 @@ Este curso de 60 minutos introduce a estudiantes de secundaria (12 a 17 años) a
 | Número de Lección | Nombre de la Actividad | Editor en Línea | Enlace Directo |
 | :--- | :--- | :--- | :--- |
 | Lección 1 | Mi Primer Mensaje en Java | GDB | [Abrir Editor](https://onlinegdb.com/LybOyswo6) |
-| Lección 2 | Perfil de Personaje | Replit | [Abrir Editor](https://replit.com/@tu-usuario/java-leccion-2-starter) |
-| Lección 3 | Camino de Decisiones y Bucles | JDoodle | [Abrir Editor](https://www.jdoodle.com/online-java-compiler) |
-| Lección 4 | Entrada de Datos con Scanner | OnlineGDB | [Abrir Editor](https://onlinegdb.com/example-lesson4) |
-| Lección 5 | Simulador de Mascotas Virtuales | Replit | [Abrir Editor](https://replit.com/@tu-usuario/java-leccion-5-starter) |
-| Lección 6 | Revisión de errores | GDB | [Abrir Editor](https://onlinegdb.com/NTSEf7d8I) |
+| Lección 2 | Perfil de Personaje | GBD | [Abrir Editor](https://onlinegdb.com/RMtcgUdyt) |
+| Lección 3 | Camino de Decisiones y Bucles | JDoodle | [Abrir Editor](https://www.jdoodle.com/ga/9b3t-k6rd-arak) |
+| Lección 4 | Entrada de Datos con Scanner | JDoodle | [Abrir Editor](https://www.jdoodle.com/ia/5z5y-hmm5-m23f) |
+| Lección 5 | Simulador de Mascotas Virtuales | JDoodle | [Abrir Editor](https://www.jdoodle.com/ia/uven-92be-vb5e) |
+| Lección 6 | Revisión de errores | GDB | [GDB](https://onlinegdb.com/NTSEf7d8I) |
 | Cierre | Cuestionario de Validación | Google Forms | [Completar Cuestionario](https://docs.google.com/forms/d/e/1FAIpQLSd5Hp92BQ8JOETsJARQ0U8g_trUQfdzh4kocAp3cb6TQBKmKA/viewform?usp=publish-editor) |
 
 ---
