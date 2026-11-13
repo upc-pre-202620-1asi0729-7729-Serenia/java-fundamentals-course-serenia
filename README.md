@@ -75,7 +75,7 @@ Este curso de 60 minutos introduce a estudiantes de secundaria (12 a 17 años) a
 * **Curso**: 1ASI0729 - Desarrollo de Aplicaciones Open Source
 * **NRC**: 7729
 * **Nombre del equipo**: Serenia
-* **Líder del equipo**: Piero Alejandro Razuri Ucañan
+* **Líder del equipo**: Juan Sebastian Estupiñan Olortegui
 * **Integrantes del equipo**:
   * Juan Sebastian Estupiñan Olortegui
   * Piero Alejandro Razuri Ucañan
